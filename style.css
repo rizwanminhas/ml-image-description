@@ -1,0 +1,18 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+table, tr, td, th {
+  border: 1px solid black;
+}
+
+img {
+  max-width: 50%;
+  max-height: 50%;
+}
